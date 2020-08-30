@@ -113,6 +113,15 @@ section p {
   text-transform: uppercase;
 }
 
+.blog .box-2 form input {
+  /* padding: 15px;
+  margin: 30px; */
+  padding: 15px 0;
+  font-size: 18px;
+  color: #555;
+  width: 100%;
+}
+
 .boxes {
   background: #fff;
   padding: 1rem;
